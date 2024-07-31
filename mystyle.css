@@ -1,0 +1,7 @@
+.b_element{
+    color: blue;
+    background-color: aqua;
+    border: 5px dashed black;
+    padding: 5px;
+    margin: 5px;
+}
